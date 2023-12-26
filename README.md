@@ -1,4 +1,4 @@
-# GitHub Data Fetching Web Application
+# GitHub Contribution Graph Application
 
 This web application is designed to fetch and display a user's GitHub contribution graph and repository images using Node.js, Express.js, and React.js.
 
