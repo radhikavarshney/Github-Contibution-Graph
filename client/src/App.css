@@ -1,0 +1,9 @@
+.color-empty {
+  fill: #ebedf0; /* Color for empty cells */
+}
+
+
+.color-scale-high {
+  fill: green;
+   /* Color for contribution */
+}
